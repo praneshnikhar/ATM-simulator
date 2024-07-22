@@ -1,5 +1,5 @@
 # ATM-simulator(by Pranesh)
-In this project i made bank management system using - Java , created DATABASE using MySQL.
+In this project i made bank management system using - Java , using jdbc connectivity stored all the information and details in the DATABASE.
 The user needs to SIGNUP , give all the required details to open a bank acc. and to obtain an atm card.
 The user can then signin into the account and can
 1) Deposit
@@ -23,4 +23,9 @@ Everything the user does is updated and stored in DATABASE , making it easier fo
 <img width="1469" alt="Screenshot 2024-07-22 at 12 40 55 PM" src="https://github.com/user-attachments/assets/1ba69a32-3069-406f-82ce-9983828a90b3">
 <img width="1468" alt="Screenshot 2024-07-22 at 12 41 34 PM" src="https://github.com/user-attachments/assets/13b53a79-7757-44f0-a907-e6d67881ba9d">
 <img width="1052" alt="Screenshot 2024-07-22 at 12 43 33 PM" src="https://github.com/user-attachments/assets/824e7be9-9b54-4a87-945f-805753443135">
+
+
+-By Pranesh Nikhar
+[My website](https://pranesh-nikhar.web.app/)
+[Socials](https://pranesh-nikhar.web.app/contact.html)
 
