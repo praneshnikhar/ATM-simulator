@@ -1,6 +1,6 @@
 # ATM-simulator(by Pranesh)
-In this project i made bank management system using - Java , using jdbc connectivity stored all the information and details in the DATABASE.
-The user needs to SIGNUP , give all the required details to open a bank acc. and to obtain an atm card.
+In this project i made bank management system using - Java and using jdbc connectivity stored all the information and details in the DATABASE.<br>
+The user needs to SIGNUP , give all the required details to open a bank acc. and to obtain an atm card.<br>
 The user can then signin into the account and can
 1) Deposit
 2) Withdraw
