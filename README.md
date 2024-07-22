@@ -12,7 +12,7 @@ The user can then signin into the account and can
 Everything the user does is updated and stored in DATABASE , making it easier for the user to use the ATM anytime!!
 
 <img width="1470" alt="Screenshot 2024-07-22 at 12 15 46 PM" src="https://github.com/user-attachments/assets/c4b31651-dd2f-4ef5-a9d5-be14672a6cb6">
-
+<img width="1470" alt="Screenshot 2024-07-22 at 12 19 23 PM" src="https://github.com/user-attachments/assets/4e6d41ee-a4dc-4f93-8dd6-77a03a2098d2">
 <img width="1020" alt="Screenshot 2024-07-22 at 12 20 34 PM" src="https://github.com/user-attachments/assets/8b1957c1-04b5-4340-a1ff-ba54533d9d72">
 <img width="1470" alt="Screenshot 2024-07-22 at 12 25 23 PM" src="https://github.com/user-attachments/assets/be4fbddb-1e5f-4e8f-aaa5-03ac25995083">
 <img width="1057" alt="Screenshot 2024-07-22 at 12 26 21 PM" src="https://github.com/user-attachments/assets/b9c15fce-b9d2-4081-a742-e927eeea308b">
